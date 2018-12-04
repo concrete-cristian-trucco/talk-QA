@@ -7,3 +7,6 @@
 * https://labs.play-with-k8s.com/
 
 Ou podemos instalar o Minikube para simular um cluster Kubernetes na máquina localhost
+* https://kubernetes.io/docs/tasks/tools/install-minikube/
+
+
