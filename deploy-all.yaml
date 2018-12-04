@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: container-feature-express
-          image: concretecristiantrucco/feature-express
+          image: concretecristiantrucco/feature-express:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
