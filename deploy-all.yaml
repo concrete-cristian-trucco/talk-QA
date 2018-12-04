@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: container-feature-express
-          image: menezes-ssz/feature-express:latest  
+          image: concretecristiantrucco/feature-express
           ports:
             - containerPort: 3000
 ---
